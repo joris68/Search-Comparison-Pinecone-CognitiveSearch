@@ -5,7 +5,8 @@ Check out the  Knowledge-Retrieval Cheat cheet from Reddis on the basic Architec
 
 1. System: Knowledge Retrieval using a Pinecone Vectordatabase
 2. System Azure Cognitive Search
-Inboth systems there are the exact same Chunks.
+
+Both systems hold the exact same data.
 Textsplitting, chunking was done with the 'cl100k_base' tokenizer.
 embedding via the "text-embedding-ada-002" and the OpenAI-API.
 
