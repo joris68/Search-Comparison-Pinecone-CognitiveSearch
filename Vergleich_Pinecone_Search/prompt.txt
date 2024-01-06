@@ -1,0 +1,13 @@
+Im folgenden wirst du drei verschiedene Teile bekommen.
+Eine Frage namens "Frage". Eine JSON-Datei, in denen Informationen stecken, die die Frage
+beantworten könnten names "Pinecone". Eine JSON-Datei, in denen Informationen stecken, die die Frage
+beantworten könnten names "Search".
+
+Die Frage lautet: <<Frage>>
+Die Pinecone JSON lauten: <<Pinecone>>
+Die Search JSON lauten: <<Search>>
+
+Bitte evaluiere, welche JSON - von Search oder von Pinecone - mehr und genauere  Informationen liefern, um die Frage richtig zu beantworten.
+Solltest du dich für Pinecone entscheiden bitte gebe nur "Pinecone" zurück in deiner Antwort.
+Andersrum bitte gebe nur "Search" zurück.
+Deine Antwort sollte AUSSCHLIESSLICH aus einem Wort bestehen. "Pinecone" oder "Search".

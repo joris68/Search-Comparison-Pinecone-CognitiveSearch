@@ -1,0 +1,13 @@
+Im folgenden wirst du drei verschiedene Teile bekommen.
+Eine Frage namens "Frage". Eine JSON-Datei, in denen Informationen stecken, die die Frage
+beantworten könnten names "Pinecone". Eine JSON-Datei, in denen Informationen stecken, die die Frage
+beantworten könnten names "Search".
+
+Die Frage lautet: <<Frage>>
+Die Pinecone JSON-Datei: <<Pinecone>>
+Die Search JSON-Datei: <<Search>>
+
+Bitte evaluiere, ob Search oder Pinecone bessere und genauere Informationen in den verschiedenen Textteilen liefert, um die Frage zu beantworten.
+Benutze dafür eine Skala von 1 (gar nicht zutreffend die Informationen auf die Frage) zu 5 (sehr zutreffend für die Frage)
+Bitte gebe deine Evaluation in dieser Form zurück: "(x, y)" wobei x dein Evaluationswert für Pinecone ist und y dein Wert für Search ist.
+Deine Antwort sollte AUSSCHLIESSLICH aus aus dem Tupel bestehen. Schreibe keinen Text. 
